@@ -156,5 +156,3 @@ Data provided by **WAQI Open Data Platform**
 ## 🏁 Status
 
 🎯 MVP Completed — Fully functional and demo-ready!
-
-```

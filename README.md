@@ -45,8 +45,8 @@ React (Vite) ──► Spring Boot Backend ──► WAQI Public API
 ### 1️⃣ Clone Repo
 
 ```sh
-git clone https://github.com/AB2511/finfactor-aqi-challenge.git
-cd finfactor-aqi-challenge
+git clone https://github.com/AB2511/finfactor-aqichallenge.git
+cd finfactor-aqichallenge
 ```
 
 ---
